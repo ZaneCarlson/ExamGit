@@ -1,8 +1,8 @@
 public class quadraticsolver {
 
     public static void main(String[] args){
-    int a=1;
-    int b=1;
-    int c=1;
+    int a=20;
+    int b=20;
+    int c=20;
 }
 }
