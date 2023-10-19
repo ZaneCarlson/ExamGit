@@ -1,6 +1,6 @@
 public class quadraticSolver {
-    int a=10;
-    int b=15;
-    int c=20;
+    int a=5;
+    int b=10;
+    int c=15;
 
 }
